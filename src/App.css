@@ -1,0 +1,51 @@
+.home{
+  color:whitesmoke;
+  font-family:'Times New Roman', Times, serif;
+  font-size: medium;
+}
+.users{
+  color:whitesmoke;
+  font-family:'Times New Roman', Times, serif;
+  font-size: medium;
+}
+.posts{
+  color:whitesmoke;
+  font-family:'Times New Roman', Times, serif;
+  font-size: medium;
+}
+.name{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style:normal;
+  color:rgb(163, 78, 16);
+}
+.back{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 30px;
+  font-weight:200px;
+  color:black;
+  margin-left: 50vh;
+  background-position: inherit;
+}
+.post-title{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  margin-top: 10px;
+}
+.comment{
+  font-size: 20px;
+  font-family:'Times New Roman', Times, serif;
+  color:dimgray;
+}
+.card-title{
+  background:burlywood;
+  border-radius: 2px;
+  margin-left: 2px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.body{
+  margin-top: 40px;
+  font-family:sans-serif;
+  background-color:cornflowerblue;
+  width: 100%;
+}
